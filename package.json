@@ -11,7 +11,6 @@
   "devDependencies": {
     "@openzeppelin/cli": "^2.8.2",
     "@truffle/hdwallet-provider": "^2.0.4",
-    "dotenv": "^16.0.0",
     "install": "^0.13.0",
     "npm": "^8.5.5"
   }
